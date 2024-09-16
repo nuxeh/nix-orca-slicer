@@ -44,6 +44,7 @@
 , openexr
 , jemalloc
 , c-blosc
+, opencv
 , withSystemd ? stdenv.isLinux
 }:
 let
