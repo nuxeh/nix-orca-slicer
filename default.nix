@@ -60,7 +60,7 @@ let
 in
 stdenv.mkDerivation rec {
   pname = "orca-slicer";
-  version = "2.2.0-beta";
+  version = "2.1.1";
 
   src = fetchFromGitHub {
     owner = "SoftFever";
