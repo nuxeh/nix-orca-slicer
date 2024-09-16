@@ -112,6 +112,7 @@ stdenv.mkDerivation rec {
     mpfr
     nlopt
     opencascade-occt
+    opencv
     openvdb_tbb_2021_8
     pcre
     tbb_2021_8
